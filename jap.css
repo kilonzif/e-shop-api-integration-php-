@@ -1,0 +1,76 @@
+/* Layout */
+
+body {
+    font:normal 12px/1.6em Arial, Helvetica, sans-serif;
+	color:#2a3845;
+	margin:0;
+	padding:0;
+	background:#FFFFFF;
+}
+
+p {
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	margin:0 auto;
+	width:632px;
+	border-left:1px solid #f0e9eb;
+	border-right:1px solid #f0e9eb;
+}
+
+a:hover {
+	color:#a43b55;
+	text-decoration:none;
+	background:none;
+}
+
+h1 {
+	color:#7a2e40;
+	margin:0 0 10px;
+	padding-bottom:10px;
+	font:normal 17px Georgia, serif;
+	border-bottom:1px solid #efece7;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    background-color: #0080ff;
+    color: white;
+	border-radius: 12px;
+  padding: 15px 25px;
+  font-size: 24px;
+}
+
+ul {
+	padding:0;
+	margin:0 0 0 17px;
+	list-style:square url('http://img525.imageshack.us/img525/1890/bulletr.gif');
+}
+
+.box {
+	background:#f7f7f7;
+	border:1px solid #f0e9eb;
+	padding:15px;
+}
+
+#nav {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+	background:#0040ff;
+	color:white;
+}
+
